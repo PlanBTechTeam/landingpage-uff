@@ -10,18 +10,21 @@ import ThaisR from '../assets/thais-r.png'
 import AnaClaraNeves from '../assets/ana-clana-neves.png'
 import AnaJulyaM from '../assets/ana-julya-m.png'
 import DanielB from '../assets/daniel-b.png'
+import BrunnoAraujo from '../assets/brunno-araujo.png'
+import EllenMoura from '../assets/ellen-moura.png'
+import ViniciusCunhaDaSilva from '../assets/vinicius-cunha-da-silva.png'
 
 export const Team = () => {
   interface Person {
-  name: string
-  email: string
-  photo: string
-}
+    name: string
+    email: string
+    photo: string
+  }
 
-interface TeamSection {
-  title: string;
-  persons: Person[];
-}
+  interface TeamSection {
+    title: string;
+    persons: Person[];
+  }
 
   const teamSections: TeamSection[] = [
     {
@@ -43,6 +46,11 @@ interface TeamSection {
           photo: BeethovenAlvarez,
         },
         {
+          name: "Brunno Araujo (Pesquisador Colaborador – Professor CPII Realengo)",
+          email: "",
+          photo: BrunnoAraujo
+        },
+        {
           name: "Camila Diogo(Pós-Doutoranda Sênior, PPGH/UFF)",
           email: "",
           photo: CamilaDiogo,
@@ -58,12 +66,17 @@ interface TeamSection {
           photo: ElainePereira,
         },
         {
+          name: "Ellen Moura T.de Vasconcelos (Pesquisadora Colaboradora)",
+          email: "",
+          photo: EllenMoura
+        },
+        {
           name: "Pedro Peixoto (Pesquisador Colaborador Professor LHIA/ PPGHC/UFRJ)",
           email: "",
           photo: PedroPeixoto,
         },
         {
-          name: "Thiago de Almeida Pires (Professor PPGH/UFF) ",
+          name: "Thiago de Almeida Pires (Professor PPGH/UFF)",
           email: "",
           photo: ThiagoPires,
         },
@@ -97,6 +110,11 @@ interface TeamSection {
           email: "",
           photo: DanielB,
         },
+        {
+          name: "Vinicius Cunha da Silva (Graduando Bolsista IT FAPERJ História/UFF)",
+          email: "",
+          photo: ViniciusCunhaDaSilva
+        }
       ],
     },
   ];
@@ -126,23 +144,22 @@ interface TeamSection {
 
           {/* Grid de pessoas */}
           <div className="  py-8 flex justify-center ">
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 w-full max-w-[1200px] px-4">
-              {team.persons.map((p) => (
-                <div key={p.name} className="flex  bg-[#444444] p-2">
-                  <div className="flex flex-1 flex-col">
-                    <h2 className="flex-1 text-white w-3/4 ">{p.name}</h2>
-                    <div className="flex items-center justify-between text-white">
-                      <a href={p.email}>email</a>
-                      <a href="#">Lattes</a>
-                    </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4 gap-8 w-full max-w-[1400px] px-4">              {team.persons.map((p) => (
+              <div key={p.name} className="flex gap-2  bg-[#444444] p-2">
+                <div className="flex flex-1 flex-col">
+                  <h2 className="flex-1 text-white w-3/4 ">{p.name}</h2>
+                  <div className="flex items-center justify-between text-white">
+                    <a href={p.email}>email</a>
+                    <a href="#">Lattes</a>
                   </div>
-                  <img
-                    src={p.photo}
-                    alt={p.name}
-                    className="object-cover flex-1 "
-                  />
                 </div>
-              ))}
+                <img
+                  src={p.photo}
+                  alt={p.name}
+                  className="object-cover flex-1"
+                />
+              </div>
+            ))}
             </div>
           </div>
         </div>

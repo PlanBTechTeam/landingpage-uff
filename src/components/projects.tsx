@@ -22,6 +22,7 @@ function Projects() {
             photo: DeMoedasEReias,
         }
     ]
+
     return (
         <section className='px-32 '>
             <div className='bg-[#444444] w-1/5 h-28 flex items-end text-white pl-2 py-2'>
@@ -38,9 +39,9 @@ function Projects() {
             </div>
             <div>
                 {projectsList.map((p) => (
-                    <div key={p.title} className="p-4 bg-white">
-                        <img src={p.photo} alt="" />
-                        {p.title ? p.title : ""}
+                    <div key={p.title} className="flex flex-col gap-6 p-8 bg-white font-bold">
+                        <img src={p.photo} alt="" className="w-1/2" />
+                        <h1 className="text-center">{p.title ? p.title : ""}</h1>
                         {p.description.map((d)=>(
                             <div key={d.paragraph}>
                                 {d.paragraph}

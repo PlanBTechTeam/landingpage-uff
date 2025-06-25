@@ -7,6 +7,8 @@ import { TeamAbout } from "../components/teamAbout";
 import { Nav } from "../components/nav";
 import { Team } from "../components/team";
 import { Header } from "../components/header";
+import Publications from "../components/publications";
+import { Events } from "../components/events";
 
 function Home() {
   return (
@@ -14,20 +16,17 @@ function Home() {
       className="main flex flex-col gap-16"
       style={{
         backgroundImage: `url(${background})`,
-        // backgroundRepeat:'no-re/peat',
         backgroundSize: "contain",
       }}
     >
-      {/* 🧠 Cabeçalho */}
       <Header />
-      {/* 🧭 Navegação */}
       <Nav />
-      {/* Sobre o grupo */}
       <TeamAbout />
-      {/* EQUIPE */}
       <Team />
       <About />
       <Projects />
+      <Publications />
+      <Events />
       <Footer />
     </main>
   );
