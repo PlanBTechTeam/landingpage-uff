@@ -100,10 +100,10 @@ export const Events = () => {
     ]
 
     return (
-        <section className='px-8 lg:px-32'>
-            <div className='bg-[#444444] w-1/5 h-28 flex items-end text-white pl-4 py-2'>
-                <h1 className='tracking-wide text-[15px] font-bold'>Eventos</h1>
-            </div>
+        <section>
+            <header>
+                <h1>Eventos</h1>
+            </header>
 
             <div className='flex flex-col gap-12 mt-10'>
                 {eventsList.slice().reverse().map((e) => (

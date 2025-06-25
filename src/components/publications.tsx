@@ -22,19 +22,12 @@ const Publications = () => {
         }
     ]
     return (
-        <section className='px-32 '>
-            <div className='bg-[#444444] w-1/5 h-28 flex items-end text-white pl-2 py-2'>
-                <h1
-                    style={{
-                        letterSpacing: '0.05em',
-                        lineHeight: '18px',
-                        fontSize: '15px',
-                        fontWeight: 700,
-                    }}
-                >
+        <section>
+            <header>
+                <h1>
                     Publicações
                 </h1>
-            </div>
+            </header>
             <div>
                 {publicationsList.map((p) => (
                     <div key={p.photo} className="flex  gap-6 p-8 bg-white font-bold">

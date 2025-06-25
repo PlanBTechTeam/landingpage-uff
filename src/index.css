@@ -10,3 +10,27 @@ body {
   margin: 0; /* garante que não tenha margem que atrapalhe */
   overflow-x: hidden; /* evita scroll horizontal por causa do background */
 }
+
+section{
+  padding-inline: calc(var(--spacing) * 32) /* 8rem = 128px */;
+}
+section header{
+  width: 20%;
+  height: calc(var(--spacing) * 28) /* 7rem = 112px */;
+
+  padding-left: calc(var(--spacing) * 2) /* 0.5rem = 8px */;
+  padding-block: calc(var(--spacing) * 2) /* 0.5rem = 8px */;
+
+  display: flex;
+  justify-content: start;
+  align-items: end;
+  color: white;
+  background-color: #444444;
+}
+
+.section-header h1 {
+  letter-spacing: 0.05rem;
+  line-height: 18px;
+  font-size: 15px;
+  font-weight: 700;
+}

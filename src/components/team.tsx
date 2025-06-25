@@ -119,19 +119,12 @@ export const Team = () => {
     },
   ];
   return (
-    <section className="flex flex-col items-start gap-32 min-h-screen">
-      <div className="ml-32 bg-[#444444] w-1/5 h-28 flex items-end text-white pl-2 py-2">
-        <h1
-          style={{
-            letterSpacing: "0.05em",
-            lineHeight: "18px",
-            fontSize: "15px",
-            fontWeight: 700,
-          }}
-        >
+    <section className="flex flex-col gap-32 ">
+      <header>
+        <h1>
           Equipe
         </h1>
-      </div>
+      </header>
       {teamSections.map((team) => (
         <div key={team.title} className="w-full">
           <div className="w-1/2 bg-[#444444] flex justify-end">

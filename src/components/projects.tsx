@@ -24,8 +24,8 @@ function Projects() {
     ]
 
     return (
-        <section className='px-32 '>
-            <div className='bg-[#444444] w-1/5 h-28 flex items-end text-white pl-2 py-2'>
+        <section>
+            <header>
                 <h1
                     style={{
                         letterSpacing: '0.05em',
@@ -36,7 +36,7 @@ function Projects() {
                 >
                     Projetos
                 </h1>
-            </div>
+            </header>
             <div>
                 {projectsList.map((p) => (
                     <div key={p.title} className="flex flex-col gap-6 p-8 bg-white font-bold">
