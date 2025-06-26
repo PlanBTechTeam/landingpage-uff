@@ -1,3 +1,4 @@
+import { renderTextWithLinks } from "../utils/renderTextWithLinks";
 import { PublicationsPhotos } from "../assets/publitacations";
 import content from "../data/content.json";
 
@@ -22,7 +23,7 @@ const Publications = () => {
 
             <div className="flex-1 flex flex-col gap-4 font-bold text-sm md:text-base break-words">
               {p.description.map((d) => (
-                <div key={d.paragraph}>{d.paragraph}</div>
+                <div key={d.paragraph}>{renderTextWithLinks(d.paragraph)}</div>
               ))}
             </div>
           </div>

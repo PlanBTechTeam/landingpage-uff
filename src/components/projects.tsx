@@ -1,3 +1,4 @@
+import { renderTextWithLinks } from "../utils/renderTextWithLinks";
 import { ProjectsPhotos } from "../assets/projects";
 import content from "../data/content.json"
 
@@ -16,7 +17,7 @@ function Projects() {
                         <h1 className="text-center font-bold">{p.title ? p.title : ""}</h1>
                         {p.description.map((d) => (
                             <div key={d.paragraph}>
-                                {d.paragraph}
+                                {renderTextWithLinks(d.paragraph)}
                             </div>
                         ))}
                     </div>

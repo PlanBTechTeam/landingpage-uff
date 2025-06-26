@@ -1,3 +1,4 @@
+import { renderTextWithLinks } from "../utils/renderTextWithLinks";
 import { ProjectsPhotos } from "../assets/projects";
 import content from "../data/content.json";
 
@@ -21,7 +22,7 @@ export const DigitalTeachingMaterial = () => {
             <div className="flex-1">
               {p.description.map((d) => (
                 <div key={d.paragraph} className="text-base md:text-lg">
-                  {d.paragraph}
+                  {renderTextWithLinks(d.paragraph)}
                 </div>
               ))}
             </div>
