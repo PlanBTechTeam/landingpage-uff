@@ -16,7 +16,7 @@ export const Team = () => {
           {/* Barra de título */}
           <div className="w-full sm:w-1/2 bg-[#444444] flex justify-center sm:justify-start">
             <div className="text-white px-24 py-6">
-              <h1 className="tracking-wide leading-[18px] text-2xl sm:text-3xl font-bold  sm:text-right">
+              <h1 className="tracking-wide leading-[1.1] text-2xl sm:text-3xl font-bold  sm:text-right">
                 {team.title}
               </h1>
             </div>
