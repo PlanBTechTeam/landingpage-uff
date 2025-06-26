@@ -1,0 +1,438 @@
+{
+  "header": {
+    "title": "ANTIGUIDADE e contemporaneidade",
+    "subTitle": "em perspectiva: espaços, identidades e hibridismos"
+  },
+  "nav": [
+    {
+      "title": "Início",
+      "img": "Inicio",
+      "href": "#"
+    },
+    {
+      "title": "Sobre o grupo",
+      "img": "Sobre",
+      "href": "#about"
+    },
+    {
+      "title": "Equipe",
+      "img": "Equipe",
+      "href": "#team"
+    },
+    {
+      "title": "Linhas de Pesquisa",
+      "img": "Pesquisa",
+      "href": "#search-line"
+    },
+    {
+      "title": "Projetos",
+      "img": "Projetos",
+      "href": "#projects"
+    },
+    {
+      "title": "Publicações",
+      "img": "Publicacao",
+      "href": "#publications"
+    },
+    {
+      "title": "Materiais Digitais",
+      "img": "Materiais",
+      "href": "#digital-material"
+    },
+    {
+      "title": "Eventos",
+      "img": "Eventos",
+      "href": "#events"
+    }
+  ],
+  "teamAbout": {
+    "title": "Sobre o grupo",
+    "description": [
+      "Criado em 2010, o Grupo de Pesquisa \"Antiguidade e Contemporaneidade em perspectiva: Espaços, Identidades e Hibridismos\" pertence ao NEREIDA (Núcleo de Representações e de Imagens da Antiguidade), que é vinculado ao GHT, ao IHT e ao PPGH da UFF.",
+      "Nosso trabalho privilegia a análise da materialidade, seja ela arqueológica ou digital, cotejando-a com documentação textual e visual. Temos particular interesse por abordagens de agenciamento e apropriações culturais, onde os estudos de consumo são centrais.",
+      "Nossas pesquisas têm se voltado para o estudo de processos de mobilidade e conectividade do mundo antigo, as transformações por eles promovidas, usos e discursos espaciais, a materialidade da morte, recepção e usos do passado, além de aplicações de TICs ao ensino e pesquisa em história antiga e arqueologia."
+    ]
+  },
+  "teamSection": [
+    {
+      "title": "Pesquisadores e colaboradores",
+      "persons": [
+        {
+          "name": "Andriene B. tacla(Cordenadora professora GHT ePPGH/UFF)",
+          "email": "",
+          "photo": "AdrianeBTacla"
+        },
+        {
+          "name": "Alexandre S.Moraes(Professor GHT e PPGH/UFF)",
+          "email": "",
+          "photo": "AlexandreSMoraes"
+        },
+        {
+          "name": "Beethoven Alvarez(Pesquisador Colaborador – LEC/UFF)",
+          "email": "",
+          "photo": "BeethovenAlvarez"
+        },
+        {
+          "name": "Brunno Araujo (Pesquisador Colaborador – Professor CPII Realengo)",
+          "email": "",
+          "photo": "BrunnoAraujo"
+        },
+        {
+          "name": "Camila Diogo(Pós-Doutoranda Sênior, PPGH/UFF)",
+          "email": "",
+          "photo": "CamilaDiogo"
+        },
+        {
+          "name": "Camila Guimarães Dantas(Pesquisadora Colaboradora)",
+          "email": "",
+          "photo": "CamilaDantas"
+        },
+        {
+          "name": "Elaine Pereira-Farrel(Pesquisadora Colaboradora)",
+          "email": "",
+          "photo": "ElainePereira"
+        },
+        {
+          "name": "Ellen Moura T.de Vasconcelos (Pesquisadora Colaboradora)",
+          "email": "",
+          "photo": "EllenMoura"
+        },
+        {
+          "name": "Pedro Peixoto (Pesquisador Colaborador Professor LHIA/ PPGHC/UFRJ)",
+          "email": "",
+          "photo": "PedroPeixoto"
+        },
+        {
+          "name": "Thiago de Almeida Pires (Professor PPGH/UFF)",
+          "email": "",
+          "photo": "ThiagoPires"
+        }
+      ]
+    },
+    {
+      "title": "Alunos - Doutorado",
+      "persons": [
+        {
+          "name": "Thais R. dos Santos (Doutoranda Bolsista CNPq – PPGH/UFF)",
+          "email": "",
+          "photo": "ThaisR"
+        }
+      ]
+    },
+    {
+      "title": "Alunos - Mestrado",
+      "persons": [
+        {
+          "name": "Juliane Santos Machado(Mestranda Bolsista FAPERJ Nota10–PPGH/UFF)",
+          "email": "",
+          "photo": "JulianeSantos"
+        },
+        {
+          "name": "Mariana Pinheiro daCostaChaves (Mestranda– PPGH/UFF)",
+          "email": "",
+          "photo": "MarianaPinheiro"
+        }
+      ]
+    },
+    {
+      "title": "Alunos-Graduação",
+      "persons": [
+        {
+          "name": "Ana Clara Neves (GraduandaBolsista IC FAPERJ História/UFF)",
+          "email": "",
+          "photo": "AnaClaraNeves"
+        },
+        {
+          "name": "Ana Julya M. Guimarães (Graduanda História/UFF) ",
+          "email": "",
+          "photo": "AnaJulyaM"
+        },
+        {
+          "name": "Daniel B. da Conceição Nascimento (Graduando, História/UFF)",
+          "email": "",
+          "photo": "DanielB"
+        },
+        {
+          "name": "Vinicius Cunha da Silva (Graduando Bolsista IT FAPERJ História/UFF)",
+          "email": "",
+          "photo": "ViniciusCunhaDaSilva"
+        }
+      ]
+    }
+  ],
+  "about": {
+    "title": "Linhas de Pesquisa",
+    "description": [
+      {
+        "title": "1) Conectividade e transformações da Idade do Ferro",
+        "paragraph": "Essa linha é dedicada às práticas e às transformações das sociedades da Idade do Ferro europeia. Nela, visamos analisar a construção de redes sociais a partir da perspectiva de uma Idade do Ferro conectada. Atentamos para as transformações culturais e socioeconômicas, a exemplo de processos de emaranhamento cultural, agenciamento, religiosidade e para a produção de desigualdades sociais."
+      },
+      {
+        "title": "2) Arqueologia Funerária",
+        "paragraph": " Enveredando pela materialidade da morte, essa linha de pesquisa se dedica a analisar as práticas e tratamentos funerários nas sociedades pré-históricas e antigas, visando a compreensão dos relacionamentos entre os vivos e seus mortos, desigualdades e diferenciação social, representações da morte e construções de paisagens funerárias."
+      },
+      {
+        "title": "3) Contatos, Expansões e Urbanismos Antigos",
+        "paragraph": "Essa linha de pesquisa visa compreender e analisar a produção e as transformações de paisagens urbanas no mundo antigo, os usos e apropriação do espaço, o impacto cultural de processos de urbanização e averiguar como movimentos globalizantes e de expansão e conquistas fomentaram a produção de cidades com laços políticos e culturais, marcados em discursos arquitetônicos no ambiente construído. Assim, nos interessa sobretudo como fenômenos de monumentalização e ritualização da paisagem foram experienciados pelas populações migrantes, locais e das cidades de origem."
+      },
+      {
+        "title": "4) História, Arqueologia e Patrimônio Digital",
+        "paragraph": "Essa linha abrange a análise das aplicações de TICs aos ofícios do historiador e do arqueólogo, assim como o estudo de discursos históricos em mídias digitais (sobretudo jogos e XR). Os principais interesses dos pesquisadores do grupo têm sido sobre aplicações digitais para o ensino de história e divulgação científica, aplicações de tecnologias 3D (incluindo jogos e XR) para patrimônio cultural, cemitérios híbridos, memoriais digitais, IA e a produção da memória em arquivos digitais."
+      },
+      {
+        "title": "5) Recepção e Usos do Passado",
+        "paragraph": "Essa linha de pesquisa se debruça sobre as apropriações e representações de sociedades antigas pelos modernos e pela contemporaneidade. Os pesquisadores do grupo têm se interessado pelo discurso de antiquários e colecionadores, de jogos e XR e como índices culturais diversos da Antiguidade foram relidos e ressignificados em variadas representações visuais e literárias."
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Circuitos de informação: visões de experimentação comparada da Antiguidade",
+      "description": [
+        {
+          "paragraph": "Partindo de uma perspectiva multidisciplinar, envolvendo historiadores, arqueólogos e linguistas, o presente projeto vem propor o estudo de experiências comparadas dos circuitos de comunicação entre helenos e as sociedades ditas “bárbaras”. "
+        },
+        {
+          "paragraph": "Trabalhando com um recorte de longa duração, estaremos analisando a mobilidade de pessoas, artefatos e ideias e suas apropriações para a construção de experiências locais. Seguindo a abordagem pós-colonial e os estudos da materialidade e de autoria, buscamos aprofundar a reflexão acerca do agenciamento humano nos processos de contato e comunicação entre helenos e as populações locais de contextos coloniais. "
+        },
+        {
+          "paragraph": "Essa proposta visa o emprego de Tecnologias da Informação e Comunicação (TICs) tanto para a pesquisa (com técnicas de fotografia computacional para digitalização de cultura material e de linguística de corpora para análise textual), quanto para o Ensino de História Antiga. Vale destacar que uma das finalidades desse projeto é a produção de material de divulgação científica e para a educação básica em formato digital e em impresso, a serem elaborados em colaboração com escolas públicas do Estado do RJ."
+        },
+        {
+          "paragraph": "Equipe: Adriene Baron Tacla, Camila Diogo de Souza, Beethoven Alvarez, Alexandre Carneiro Cerqueira Lima, Alexandre Santos de Moraes"
+        },
+        {
+          "paragraph": "Período: 2020-2025"
+        },
+        {
+          "paragraph": "Financiamento: FAPERJ"
+        }
+      ],
+      "photo": "CircuitoImage"
+    },
+    {
+      "description": [
+        {
+          "paragraph": "Visite o site do projeto:"
+        },
+        {
+          "paragraph": "https://ofcoinsandkings.exeter.ac.uk/ "
+        }
+      ],
+      "photo": "DeMoedasEReias"
+    }
+  ],
+  "publications": [
+    {
+      "photo": "DicionarioTematicoDeArqueologiaFuneraria",
+      "description": [
+        {
+          "paragraph": "DE SOUZA, C.D.; TACLA, A.B. (Orgs.) Dicionário Temático de Arqueologia Funerária. Belo Horizonte: Fino Traço, 2024."
+        },
+        {
+          "paragraph": "Ebook: https://www.finotracoeditora.com.br/ebook-dicionario-de-arqueologia-funeraria"
+        },
+        {
+          "paragraph": "Impresso: https://www.finotracoeditora.com.br/dicionario-de-arqueologia-funeraria"
+        },
+        {
+          "paragraph": "Financiamento: FAPERJ"
+        }
+      ]
+    },
+    {
+      "photo": "DicionarioConceitualDeCircuitosEInteracoesDaAntiguidade",
+      "description": [
+        {
+          "paragraph": "TACLA, A.B. et al. (Org.) Dicionário Conceitual de Circuitos e Interações da Antiguidade. Belo Horizonte: Fino Traço, 2024."
+        },
+        {
+          "paragraph": "Ebook: https://www.finotracoeditora.com.br/e-book-dicionario-conceitual-de-circuitos-e-interacoes-da-antiguidade"
+        },
+        {
+          "paragraph": "Impresso: https://www.finotracoeditora.com.br/dicionario-conceitual-de-circuitos-e-interacoes-da-antiguidade"
+        },
+        {
+          "paragraph": "Financiamento: FAPERJ"
+        }
+      ]
+    }
+  ],
+  "DigitalTeachingMaterial": [
+    {
+      "description": [
+        {
+          "paragraph": "https://ofcoinsandkings.exeter.ac.uk/area-do-aluno/"
+        }
+      ],
+      "photo": "DeMoedasEReias"
+    }
+  ],
+  "events": [
+    {
+      "year": "2011",
+      "events": [
+        {
+          "photo": "StockHammer"
+        }
+      ]
+    },
+    {
+      "year": "2012",
+      "events": [
+        {
+          "photo": "Simposio"
+        }
+      ]
+    },
+    {
+      "year": "2013",
+      "events": [
+        {
+          "photo": "Colombani"
+        },
+        {
+          "photo": "Hirota"
+        },
+        {
+          "photo": "Vasques"
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "events": [
+        {
+          "photo": "Adriana"
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "events": [
+        {
+          "photo": "CursoMedieval"
+        },
+        {
+          "photo": "OficinaTech"
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "events": [
+        {
+          "photo": "EcontroGtha"
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "events": [
+        {
+          "photo": "Realidade"
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "events": [
+        {
+          "photo": "Coloquio"
+        },
+        {
+          "photo": "Moedas"
+        },
+        {
+          "photo": "Coins"
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "events": [
+        {
+          "photo": "Coins"
+        },
+        {
+          "photo": "OficinaTreinamentoEmEpidoc"
+        },
+        {
+          "photo": "Uff"
+        },
+        {
+          "photo": "Parsas"
+        },
+        {
+          "photo": "MaterialidadesExMachina"
+        },
+        {
+          "photo": "Virtual"
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "events": [
+        {
+          "photo": "Joias"
+        },
+        {
+          "photo": "Doencas"
+        },
+        {
+          "photo": "Estudos"
+        },
+        {
+          "photo": "MiniCursos"
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "events": [
+        {
+          "photo": "Circuitos"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "events": [
+        {
+          "photo": "Porto"
+        },
+        {
+          "photo": "Conferencia"
+        },
+        {
+          "photo": "Remotra"
+        },
+        {
+          "photo": "ParaAlem"
+        },
+        {
+          "photo": "Alceste"
+        },
+        {
+          "photo": "AMorte"
+        },
+        {
+          "photo": "Parir"
+        },
+        {
+          "photo": "Andando"
+        },
+        {
+          "photo": "Desigualdade"
+        },
+        {
+          "photo": "Hibrid"
+        },
+        {
+          "photo": "Alumbramientos"
+        }
+      ]
+    }
+  ]
+}

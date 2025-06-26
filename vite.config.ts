@@ -8,7 +8,8 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
-      '@photoEvents': path.resolve(__dirname, 'src/assets/events')
+      '@photoEvents': path.resolve(__dirname, 'src/assets/events'),
+      '@content': path.resolve(__dirname, 'src/data')
     }
   }
 })

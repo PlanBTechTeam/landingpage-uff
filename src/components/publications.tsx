@@ -1,49 +1,37 @@
-import DicionarioTematicoDeArqueologiaFuneraria from '../assets/dicionario-tematico-de-arqueologia-funeraria.png'
-import DicionarioConceitualDeCircuitosEInteracoesDaAntiguidade from '../assets/dicionario-conceitual-de-circuitos-e-Interações-da-antiguidade.png'
+import { PublicationsPhotos } from "../assets/publitacations";
+import content from "../data/content.json";
+
 const Publications = () => {
-    const publicationsList = [
-        {
-            photo: DicionarioTematicoDeArqueologiaFuneraria,
-            description: [
-                { paragraph: "DE SOUZA, C.D.; TACLA, A.B. (Orgs.) Dicionário Temático de Arqueologia Funerária. Belo Horizonte: Fino Traço, 2024." },
-                { paragaph: "Ebook: https://www.finotracoeditora.com.br/ebook-dicionario-de-arqueologia-funeraria" },
-                { paragraph: "Impresso: https://www.finotracoeditora.com.br/dicionario-de-arqueologia-funeraria" },
-                { paragraph: "Financiamento: FAPERJ" }
-            ]
-        },
-        {
-            photo: DicionarioConceitualDeCircuitosEInteracoesDaAntiguidade,
-            description: [
-                { paragraph: "TACLA, A.B. et al. (Org.) Dicionário Conceitual de Circuitos e Interações da Antiguidade. Belo Horizonte: Fino Traço, 2024." },
-                { paragaph: "Ebook: https://www.finotracoeditora.com.br/e-book-dicionario-conceitual-de-circuitos-e-interacoes-da-antiguidade" },
-                { paragraph: "Impresso: https://www.finotracoeditora.com.br/dicionario-conceitual-de-circuitos-e-interacoes-da-antiguidade" },
-                { paragraph: "Financiamento: FAPERJ" }
-            ]
-        }
-    ]
-    return (
-        <section>
-            <header>
-                <h1>
-                    Publicações
-                </h1>
-            </header>
-            <div>
-                {publicationsList.map((p) => (
-                    <div key={p.photo} className="flex  gap-6 p-8 bg-white font-bold">
-                        <img src={p.photo} alt="" />
-                        <div className='flex-1 flex flex-col'>
-                            {p.description.map((d) => (
-                                <div key={d.paragraph} className=''>
-                                    {d.paragraph}
-                                </div>
-                            ))}
-                        </div>
-                    </div>
-                ))}
+  return (
+    <section className="px-4 sm:px-6 md:px-10 lg:px-20 py-10" id="publications">
+      <header className="mb-6">
+        <h1 className="text-3xl md:text-3xl font-bold text-center md:text-left">Publicações</h1>
+      </header>
+
+      <div className="flex flex-col gap-8">
+        {content.publications.map((p) => (
+          <div
+            key={p.photo}
+            className="flex flex-col md:flex-row gap-6 p-6 bg-white rounded shadow-sm"
+          >
+            <img
+              src={PublicationsPhotos[p.photo as keyof typeof PublicationsPhotos]}
+              alt=""
+              className="w-full md:w-64 h-auto object-cover rounded flex-shrink-0"
+            />
+            <div className="w-1/2  flex flex-col  gap-10 font-bold text-sm md:text-base ">
+              {p.description.map((d) => (
+                <div key={d.paragraph} className="break-words">
+                  {d.paragraph}
+                </div>
+              ))}
             </div>
-        </section>
-    )
-}
+          </div>
+
+        ))}
+      </div>
+    </section>
+  );
+};
 
 export default Publications;

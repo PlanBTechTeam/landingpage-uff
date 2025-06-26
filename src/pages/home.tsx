@@ -9,6 +9,7 @@ import { Team } from "../components/team";
 import { Header } from "../components/header";
 import Publications from "../components/publications";
 import { Events } from "../components/events";
+import { DigitalTeachingMaterial } from "../components/DigitalTeachingMaterial";
 
 function Home() {
   return (
@@ -16,7 +17,8 @@ function Home() {
       className="main flex flex-col gap-16"
       style={{
         backgroundImage: `url(${background})`,
-        backgroundSize: "contain",
+        backgroundSize: "104%",
+        // backgroundRepeat: "no-repeat"
       }}
     >
       <Header />
@@ -26,6 +28,7 @@ function Home() {
       <About />
       <Projects />
       <Publications />
+      <DigitalTeachingMaterial/>
       <Events />
       <Footer />
     </main>

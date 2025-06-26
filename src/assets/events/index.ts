@@ -7,7 +7,7 @@ import Alceste from './alceste.png'
 import AMorte from './a-morte.png'
 import Parir from './parir.png'
 import Andando from './andando.png'
-import Desigualdade from './desigualdade.png' // ⚠️ Repetido?
+import Desigualdade from './desigualdade.png'
 import Hibrid from './hibrid.png'
 import Alumbramientos from './alumbramientos.png'
 import Circuitos from './circuitos.png'

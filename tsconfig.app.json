@@ -28,6 +28,7 @@
     "baseUrl": ".",
     "paths": {
       "@photoEvents/*": ["src/assets/events/*"],
+      "@content/*": ["src/data/*"],
     }
   },
   "include": [
