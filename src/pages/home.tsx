@@ -9,7 +9,6 @@ import { Team } from "../components/team";
 import { Header } from "../components/header";
 import Publications from "../components/publications";
 import { Events } from "../components/events";
-import { DigitalTeachingMaterial } from "../components/DigitalTeachingMaterial";
 
 function Home() {
   return (
@@ -28,7 +27,6 @@ function Home() {
       <About />
       <Projects />
       <Publications />
-      <DigitalTeachingMaterial/>
       <Events />
       <Footer />
     </main>

@@ -37,7 +37,7 @@
     {
       "title": "Materiais Digitais",
       "img": "Materiais",
-      "href": "#digital-material"
+      "href": "https://www.historia.uff.br/nereidacollections/"
     },
     {
       "title": "Eventos",
@@ -256,16 +256,6 @@
           "paragraph": "Financiamento: FAPERJ"
         }
       ]
-    }
-  ],
-  "DigitalTeachingMaterial": [
-    {
-      "description": [
-        {
-          "paragraph": "https://ofcoinsandkings.exeter.ac.uk/area-do-aluno/"
-        }
-      ],
-      "photo": "DeMoedasEReias"
     }
   ],
   "events": [

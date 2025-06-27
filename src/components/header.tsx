@@ -7,13 +7,13 @@ export const Header = () => {
   const firstWords = titleWords.join(" ");
   return (
     <section className="flex flex-col items-center px-4 sm:px-6 md:px-10 py-10 bg-[#f5f5f5] text-center max-w-full">
-      <h1 className="palatino text-center leading-[1.1] text-[clamp(2rem,6vw,4rem)] break-words max-w-full ">
+      <h1 className="palatino text-center  text-[clamp(2rem,6vw,4rem)] break-words max-w-full " style={{lineHeight: 1}}>
         <span className="palatino">{firstWords} </span>
         <span className="foster">{penultimateWord} {lastWord}</span>
-      </h1>
 
+      </h1>
       <p
-        className="calibri mt-4 text-center max-w-full"
+        className="calibri text-center mt-0.5 max-w-full"
         style={{
           fontWeight: 200,
           fontSize: "clamp(1.2rem, 4vw, 3.2rem)",
