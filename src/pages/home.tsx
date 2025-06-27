@@ -16,7 +16,7 @@ function Home() {
       className="main flex flex-col gap-16"
       style={{
         backgroundImage: `url(${background})`,
-        backgroundSize: "104%",
+        backgroundSize: "auto",
         // backgroundRepeat: "no-repeat"
       }}
     >
