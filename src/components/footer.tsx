@@ -6,7 +6,7 @@ export const Footer = () => {
     <footer>
       {/* Logos (UFF etc.) */}
       <div className="bg-[#4C4C4A] flex justify-center py-6 px-4">
-        <img src={Logos} alt="Logo" className="w-3/4 sm:w-1/2 max-w-xs object-contain" />
+        <img src={Logos} alt="Logo" className=" object-contain" />
       </div>
 
       {/* Creative Commons */}
