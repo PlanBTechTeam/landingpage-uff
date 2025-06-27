@@ -59,52 +59,62 @@
       "persons": [
         {
           "name": "Andriene B. tacla(Cordenadora professora GHT ePPGH/UFF)",
-          "email": "",
+          "email": "adrienebt@yahoo.com.br",
+          "lattes": "http://lattes.cnpq.br/2482007463791395",
           "photo": "AdrianeBTacla"
         },
         {
           "name": "Alexandre S.Moraes(Professor GHT e PPGH/UFF)",
-          "email": "",
+          "email": "asmoraes@gmail.com",
+          "lattes": "http://lattes.cnpq.br/5936890763143677",
           "photo": "AlexandreSMoraes"
         },
         {
           "name": "Beethoven Alvarez(Pesquisador Colaborador – LEC/UFF)",
-          "email": "",
+          "email": "balvarez@id.uff.br",
+          "lattes": "http://lattes.cnpq.br/6074649671723008",
           "photo": "BeethovenAlvarez"
         },
         {
           "name": "Brunno Araujo (Pesquisador Colaborador – Professor CPII Realengo)",
-          "email": "",
+          "email": "brunno.o.araujo@gmail.com",
+          "lattes": "http://lattes.cnpq.br/9313752314678720",
           "photo": "BrunnoAraujo"
         },
         {
           "name": "Camila Diogo(Pós-Doutoranda Sênior, PPGH/UFF)",
-          "email": "",
+          "email": "caumilasouza@yahoo.com.br",
+          "lattes": "http://lattes.cnpq.br/8163266362560871",
           "photo": "CamilaDiogo"
         },
         {
           "name": "Camila Guimarães Dantas(Pesquisadora Colaboradora)",
-          "email": "",
+          "email": "work.camiladantas@gmail.com",
+          "lattes": "http://lattes.cnpq.br/7949719111961368",
           "photo": "CamilaDantas"
         },
         {
           "name": "Elaine Pereira-Farrel(Pesquisadora Colaboradora)",
-          "email": "",
+          "email": "elainepereirafarrell@gmail.com",
+          "lattes": "http://lattes.cnpq.br/5769789852797641",
           "photo": "ElainePereira"
         },
         {
           "name": "Ellen Moura T.de Vasconcelos (Pesquisadora Colaboradora)",
-          "email": "",
+          "email": "ellenmouratv@gmail.com",
+          "lattes": "http://lattes.cnpq.br/9965838111068791",
           "photo": "EllenMoura"
         },
         {
           "name": "Pedro Peixoto (Pesquisador Colaborador Professor LHIA/ PPGHC/UFRJ)",
-          "email": "",
+          "email": "ito_pedro@hotmail.com",
+          "lattes": "http://lattes.cnpq.br/7179835505426363",
           "photo": "PedroPeixoto"
         },
         {
           "name": "Thiago de Almeida Pires (Professor PPGH/UFF)",
-          "email": "",
+          "email": "thiagokpires@gmail.com",
+          "lattes": "http://lattes.cnpq.br/3691142177207756",
           "photo": "ThiagoPires"
         }
       ]
@@ -114,7 +124,8 @@
       "persons": [
         {
           "name": "Thais R. dos Santos (Doutoranda Bolsista CNPq – PPGH/UFF)",
-          "email": "",
+          "email": "thais.rds91@gmail.com",
+          "lattes": "http://lattes.cnpq.br/2396540835549025",
           "photo": "ThaisR"
         }
       ]
@@ -124,12 +135,14 @@
       "persons": [
         {
           "name": "Juliane Santos Machado(Mestranda Bolsista FAPERJ Nota10–PPGH/UFF)",
-          "email": "",
+          "email": "jsmachado@id.uff.br",
+          "lattes": "http://lattes.cnpq.br/2412273734192050",
           "photo": "JulianeSantos"
         },
         {
           "name": "Mariana Pinheiro daCostaChaves (Mestranda– PPGH/UFF)",
-          "email": "",
+          "email": "marianapinheiro@id.uff.br",
+          "lattes": "http://lattes.cnpq.br/5179361712468330",
           "photo": "MarianaPinheiro"
         }
       ]
@@ -139,22 +152,26 @@
       "persons": [
         {
           "name": "Ana Clara Neves (GraduandaBolsista IC FAPERJ História/UFF)",
-          "email": "",
+          "email": "ac_neves@id.uff.br",
+          "lattes": "http://lattes.cnpq.br/5697070883578588",
           "photo": "AnaClaraNeves"
         },
         {
           "name": "Ana Julya M. Guimarães (Graduanda História/UFF) ",
-          "email": "",
+          "email": "Mendesana@id.uff.br",
+          "lattes": "http://lattes.cnpq.br/3527712044270440",
           "photo": "AnaJulyaM"
         },
         {
           "name": "Daniel B. da Conceição Nascimento (Graduando, História/UFF)",
-          "email": "",
+          "email": "danielbaptista@id.uff.br",
+          "lattes": "http://lattes.cnpq.br/9373789787777515",
           "photo": "DanielB"
         },
         {
           "name": "Vinicius Cunha da Silva (Graduando Bolsista IT FAPERJ História/UFF)",
-          "email": "",
+          "email": "vcsilva@id.uff.br",
+          "lattes": "http://lattes.cnpq.br/0755700663636440",
           "photo": "ViniciusCunhaDaSilva"
         }
       ]
@@ -263,7 +280,8 @@
       "year": "2011",
       "events": [
         {
-          "photo": "StockHammer"
+          "photo": "StockHammer",
+          "description": "descrição..."
         }
       ]
     },
@@ -271,7 +289,8 @@
       "year": "2012",
       "events": [
         {
-          "photo": "Simposio"
+          "photo": "Simposio",
+          "description": "descrição..."
         }
       ]
     },
@@ -279,13 +298,16 @@
       "year": "2013",
       "events": [
         {
-          "photo": "Colombani"
+          "photo": "Colombani",
+          "description": "descrição..."
         },
         {
-          "photo": "Hirota"
+          "photo": "Hirota",
+          "description": "descrição..."
         },
         {
-          "photo": "Vasques"
+          "photo": "Vasques",
+          "description": "descrição..."
         }
       ]
     },
@@ -293,7 +315,8 @@
       "year": "2014",
       "events": [
         {
-          "photo": "Adriana"
+          "photo": "Adriana",
+          "description": "descrição..."
         }
       ]
     },
@@ -301,10 +324,12 @@
       "year": "2015",
       "events": [
         {
-          "photo": "CursoMedieval"
+          "photo": "CursoMedieval",
+          "description": "descrição..."
         },
         {
-          "photo": "OficinaTech"
+          "photo": "OficinaTech",
+          "description": "descrição..."
         }
       ]
     },
@@ -312,7 +337,8 @@
       "year": "2016",
       "events": [
         {
-          "photo": "EcontroGtha"
+          "photo": "EcontroGtha",
+          "description": "descrição..."
         }
       ]
     },
@@ -320,7 +346,8 @@
       "year": "2017",
       "events": [
         {
-          "photo": "Realidade"
+          "photo": "Realidade",
+          "description": "descrição..."
         }
       ]
     },
@@ -328,13 +355,16 @@
       "year": "2018",
       "events": [
         {
-          "photo": "Coloquio"
+          "photo": "Coloquio",
+          "description": "descrição..."
         },
         {
-          "photo": "Moedas"
+          "photo": "Moedas",
+          "description": "descrição..."
         },
         {
-          "photo": "Coins"
+          "photo": "Coins",
+          "description": "descrição..."
         }
       ]
     },
@@ -342,22 +372,28 @@
       "year": "2019",
       "events": [
         {
-          "photo": "Coins"
+          "photo": "Coins",
+          "description": "descrição..."
         },
         {
-          "photo": "OficinaTreinamentoEmEpidoc"
+          "photo": "OficinaTreinamentoEmEpidoc",
+          "description": "descrição..."
         },
         {
-          "photo": "Uff"
+          "photo": "Uff",
+          "description": "descrição..."
         },
         {
-          "photo": "Parsas"
+          "photo": "Parsas",
+          "description": "descrição..."
         },
         {
-          "photo": "MaterialidadesExMachina"
+          "photo": "MaterialidadesExMachina",
+          "description": "descrição..."
         },
         {
-          "photo": "Virtual"
+          "photo": "Virtual",
+          "description": "descrição..."
         }
       ]
     },
@@ -365,16 +401,20 @@
       "year": "2020",
       "events": [
         {
-          "photo": "Joias"
+          "photo": "Joias",
+          "description": "descrição..."
         },
         {
-          "photo": "Doencas"
+          "photo": "Doencas",
+          "description": "descrição..."
         },
         {
-          "photo": "Estudos"
+          "photo": "Estudos",
+          "description": "descrição..."
         },
         {
-          "photo": "MiniCursos"
+          "photo": "MiniCursos",
+          "description": "descrição..."
         }
       ]
     },
@@ -382,7 +422,8 @@
       "year": "2023",
       "events": [
         {
-          "photo": "Circuitos"
+          "photo": "Circuitos",
+          "description": "descrição..."
         }
       ]
     },
@@ -390,37 +431,48 @@
       "year": "2024",
       "events": [
         {
-          "photo": "Porto"
+          "photo": "Porto",
+          "description": "descrição..."
         },
         {
-          "photo": "Conferencia"
+          "photo": "Conferencia",
+          "description": "descrição..."
         },
         {
-          "photo": "Remotra"
+          "photo": "Remotra",
+          "description": "descrição..."
         },
         {
-          "photo": "ParaAlem"
+          "photo": "ParaAlem",
+          "description": "descrição..."
         },
         {
-          "photo": "Alceste"
+          "photo": "Alceste",
+          "description": "descrição..."
         },
         {
-          "photo": "AMorte"
+          "photo": "AMorte",
+          "description": "descrição..."
         },
         {
-          "photo": "Parir"
+          "photo": "Parir",
+          "description": "descrição..."
         },
         {
-          "photo": "Andando"
+          "photo": "Andando",
+          "description": "descrição..."
         },
         {
-          "photo": "Desigualdade"
+          "photo": "Desigualdade",
+          "description": "descrição..."
         },
         {
-          "photo": "Hibrid"
+          "photo": "Hibrid",
+          "description": "descrição..."
         },
         {
-          "photo": "Alumbramientos"
+          "photo": "Alumbramientos",
+          "description": "descrição..."
         }
       ]
     }

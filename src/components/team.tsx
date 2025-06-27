@@ -30,8 +30,8 @@ export const Team = () => {
                   <div className="flex flex-1 flex-col">
                     <h2 className="flex-1 text-white  ">{p.name}</h2>
                     <div className="flex items-center justify-between text-white">
-                      <a href={p.email}>email</a>
-                      <a href="#">Lattes</a>
+                      <a href={`mailto:${p.email}`}>email</a>
+                      <a href={p.lattes}>Lattes</a>
                     </div>
                   </div>
                   <div className="flex flex-1">
