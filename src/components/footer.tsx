@@ -1,5 +1,5 @@
 import Common from '../assets/common.png';
-import Logos from '../assets/logos.png';
+import Logos from '../assets/logo/logos.png';
 
 export const Footer = () => {
   return (

@@ -1,5 +1,5 @@
 // 📦 Background e ícones
-import background from "../assets/background.png";
+import background from "../assets/background-1.png";
 import Projects from "../components/projects";
 import { Footer } from "../components/footer";
 import { About } from "../components/about";
@@ -16,7 +16,7 @@ function Home() {
       className="main flex flex-col gap-16"
       style={{
         backgroundImage: `url(${background})`,
-        backgroundSize: "auto",
+        backgroundSize: "contain",
         // backgroundRepeat: "no-repeat"
       }}
     >
