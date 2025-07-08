@@ -2,7 +2,7 @@ import content from '../data/content.json'
 
 export const About = () => {
   return (
-    <section id='search-about'>
+    <section id='search-line'>
       <header>
         <h1 className='text-3xl font-bold' style={{lineHeight: .9}}>
           {content.about.title}

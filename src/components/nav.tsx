@@ -10,6 +10,7 @@ export const Nav = () => {
             <a
               key={item.title}
               href={item.href}
+              target={item.title === "Materiais Digitais" ? "_blank" : undefined}
               className="relative group cursor-pointer rounded overflow-hidden mx-auto">
               <img
                 src={NavPhotos[item.img as keyof typeof NavPhotos]}
