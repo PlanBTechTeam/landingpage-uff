@@ -15,6 +15,7 @@ import EllenMoura from './ellen-moura.png'
 import ViniciusCunhaDaSilva from './vinicius-cunha-da-silva.png'
 import JulianeSantos from './juliane-santos-machado.png'
 import MarianaPinheiro from './mariana-pinheiro-da-costa.png'
+import SofiaVentura from './sofia-ventura.png'
 export const PeaplePhotos = {
     AdrianeBTacla,
     AlexandreSMoraes,
@@ -32,5 +33,6 @@ export const PeaplePhotos = {
     EllenMoura,
     ViniciusCunhaDaSilva,
     JulianeSantos,
-    MarianaPinheiro
+    MarianaPinheiro,
+    SofiaVentura
 }

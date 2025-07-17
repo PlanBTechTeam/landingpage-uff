@@ -173,6 +173,12 @@
           "email": "vcsilva@id.uff.br",
           "lattes": "http://lattes.cnpq.br/0755700663636440",
           "photo": "ViniciusCunhaDaSilva"
+        },
+        {
+          "name": "Sofia Ventura Benevides",
+          "email": "sofiaventura.benevides@gmail.com",
+          "lattes": "http://lattes.cnpq.br/1450071650407912",
+          "photo": "SofiaVentura"
         }
       ]
     }
@@ -373,27 +379,27 @@
       "events": [
         {
           "photo": "Coins",
-          "description": "descrição..."
+          "description": "Of Coins and Kings: discourses on power and performance/De Moedas e Reis: discursos de poder e performance, colaboração do NEREIDA/UFF com a Universidade de Exeter, realizado de 8 a 10 de abril de 2019, no MHN no Rio de Janeiro. Financiamento: British Academy/NAF e CAPES. Apoio: PPGH, MHN."
         },
         {
           "photo": "OficinaTreinamentoEmEpidoc",
-          "description": "descrição..."
+          "description": "Oficina Oficina de Treinamento em EpiDoc, ministrada pela Dra. Charlotte Tupman (Laboratório de Humanidades Digitais, Universidade de Exeter), em colaboração do NEREIDA/UFF com a Universidade de Exeter, ministrado pela Profa. Titular Dra. Lynette Mitchell, no IHT/UFF, Campus do Gragoatá, 11 a 13 de setembro de 2019, com carga horária total de 24 h. Financiamento: NAF/British Academy"
         },
         {
           "photo": "Uff",
-          "description": "descrição..."
+          "description": "Conferência “Greece and Rome in the Levant: some aspects of cultural interactions”, ministrada pelo Professor Emérito Moshe Fischer, da Universidade de Tel Aviv (Israel), ministrada em 20 de maio de 2019. "
         },
         {
           "photo": "Parsas",
-          "description": "descrição..."
+          "description": "urso de extensão “ Os Persas e seus Palácios” colaboração do NEREIDA/UFF com a Universidade de Exeter, ministrado pela Profa. Titular Dra. Lynette Mitchell (Departamento de Clássicas, Universidade de Exeter), no IHT/UFF, Campus do Gragoatá, 09 a 10 de setembro de 2019, com carga horária total de 16 h. Financiamento: NAF/British Academy"
         },
         {
           "photo": "MaterialidadesExMachina",
-          "description": "descrição..."
+          "description": "Materialidades Ex-Machina, conferência e workshop ministrados pelo Prof. Dr. Paulo da Silva Pereira (Universidade de Coimbra, Portugal) no PPGH/UFF, Campus do Gragoatá, de 03 a 05 de junho de 2019. Esse evento foi uma colaboração do NEREIDA e do Escritas da História da UFF. Financiamento: PPGH/CAPES. "
         },
         {
           "photo": "Virtual",
-          "description": "descrição..."
+          "description": "Conferência “Realidade Virtual, Realidade Mista e Games: Desafios e Conquistas” ministrada pelo Prof. Dr. Esteban Clua (Instituto de Computação/UFF), em 08 de outubro de 2019."
         }
       ]
     },
@@ -406,15 +412,15 @@
         },
         {
           "photo": "Doencas",
-          "description": "descrição..."
+          "description": "Ciclo de “conversas”. Doenças, práticas de cura e saúde nas sociedades antigas, realizado em formato remoto durante os meses de junho e julho de 2020. Foi organizado pelo NEREIDA e com o apoio do TAPHOS (Grupo de Pesquisa em Práticas Mortuárias do Mediterrâneo Antigo) do MAE/USP-CNPq."
         },
         {
           "photo": "Estudos",
-          "description": "descrição..."
+          "description": "Introdução aos Estudos sobre a Cerâmica Grega. Minicurso em formato remoto, realidado de 03 a 31 de agosto de 2020  (Segundas-feiras, das 15h às 18h, carga horária total 15h), minitrado pelas Profa. Dra. Camila Diogo de Souza (Pós-doutoranda Sênior / Pesquisadora Visitante IHT/UFF; Coordenadora/Pesquisadora Associada LECA-UFPel) e Profa. Dra. Carolina Kesser Barcellos Dias (Professora Permanente/ Pós-doutoranda PPGH-UFPel; Coordenadora/Pesquisadora Associada LECA-UFPel). "
         },
         {
           "photo": "MiniCursos",
-          "description": "descrição..."
+          "description": "Introdução à Arqueologia Funerária. Minicurso em formato remoto, realidado em 14 de setembro a 02 de novembro de 2020 (Segundas-feiras, com carga horária total 20h), ministrado pela Profa. Dra. Camila Diogo de Souza. Foi organizado pelo NEREIDA e com o apoio do TAPHOS (Grupo de Pesquisa em Práticas Mortuárias do Mediterrâneo Antigo) do MAE/USP-CNPq."
         }
       ]
     },
@@ -423,7 +429,7 @@
       "events": [
         {
           "photo": "Circuitos",
-          "description": "descrição..."
+          "description": "Colóquio Internacional Circuitos de Informação na Antiguidade: perspectivas comparadas - 2 a 4 de outubro de 2023 - Evento híbrido sobre novas abordagens de mobilidade e conectividade, temas que são articuladores dos estudos de pré-história e da antiguidade."
         }
       ]
     },
@@ -432,15 +438,15 @@
       "events": [
         {
           "photo": "Porto",
-          "description": "descrição..."
+          "description": "Dos Portos para o Interior - Conferência e Oficina ministradas pela Dra. Çiğdem Maner (Universidade de Koç, Turquia), em 25 e 26 de abril de 2024, acerca das redes do Mediterrâneo Oriental na Idade do Bronze, circulação de mercadorias, de ideias, de tecnologia e de pessoas (sobretudo artesãos) e sua relevância para o habitus das elites da Idade do Bronze nesta região."
         },
         {
           "photo": "Conferencia",
-          "description": "descrição..."
+          "description": "A ânfora e a cratera: Considerações acerca das urnas e das práticas funerárias no final da Idade do Bronze e Início da Idade do Ferro na Grécia Conferência remota ministrada pela Dra. Laetitia Phialon  (Universidade de Nanterre e École française d’Athène) em 09/05/2024"
         },
         {
           "photo": "Remotra",
-          "description": "descrição..."
+          "description": "Perda prematura: enterros de crianças em Argos Geométrico – Conferência remota ministrada pela Dra. Evanguelia Pappi (Éfora do Departamento de Antiguidades da Argólida / Ministério da Cultura Grego) em 16/05/2024"
         },
         {
           "photo": "ParaAlem",
@@ -448,31 +454,31 @@
         },
         {
           "photo": "Alceste",
-          "description": "descrição..."
+          "description": "Alceste e Admeto em devir: as metamorfoses das suas representações em cenografias míticas, cenários dramáticos e pinturas em cerâmica -Conferência presencial ministrada pelo Prof. Dr. Brian Gordon Lutalo Kibuuka (UEFS, Universidade de Coimbra, Pesquisador do CECH) em 03/06/2024"
         },
         {
           "photo": "AMorte",
-          "description": "descrição..."
+          "description": "A morte vinda do mar: as monstruosidades marinhas no imaginário grego - Conferência presencial ministrada pela Profa. Dra. Camila Alves Jourdan (Pós-doutoranda UERJ, bolsista FAPERJ) em 03/06/2024"
         },
         {
           "photo": "Parir",
-          "description": "descrição..."
+          "description": "Parir como solução:  doenças femininas no Corpus Hippocraticum e na cultura material grega - Conferência presencial ministrada pela Profa. Dra.  Mariana Figueiredo Virgolino (Pós-doutoranda MAE/ USP, bolsista FAPESP) em 24/06/2024"
         },
         {
           "photo": "Andando",
-          "description": "descrição..."
+          "description": "Andando sobre cacos de vidro: Uma breve introdução ao vidro romano/tardo-antigo e aos desafios enfrentados pelo arqueólogo estudando o tema - Conferência presencial ministrada pela Dra. Eleftheria Pinakoulaki (Paris X- Nanterre) em 19/08/2024"
         },
         {
           "photo": "Desigualdade",
-          "description": "descrição..."
+          "description": "Mesa: Desigualdades e Violência - a perspectiva da arqueologia funerária - Em colaboração com a cátedra UNESCO/UFF de Desigualdades Globais e Sociais Conferências remotas ministradas pela Dra. Rebecca Redfern, FSA (Museu de Londres e Escola de História, Clássicas e Arqueologia, Universidade de Newcastle), pelo Prof. Titular Dr. John Albanese (Universidade de Windsor) e pela Profa. Dra. Cláudia Plens (Laboratório de Estudos Arqueológicos, UNIFESP) em 01/10/2024"
         },
         {
           "photo": "Hibrid",
-          "description": "descrição..."
+          "description": "Conferência remota ministrada pela Profa. Titular Dra. Melanie Giles, FSA (Universidade de Manchester) em 10/10/2024"
         },
         {
           "photo": "Alumbramientos",
-          "description": "descrição..."
+          "description": "Amores, nascimentos e partos. A dimensão erótica a serviço da organização cósmica. Os fios da linhagem - Conferência remota ministrada pela Profa. Dra. María Cecilia Colombani (Universidad de Morón /Universidad de Mar del Plata)"
         }
       ]
     }
