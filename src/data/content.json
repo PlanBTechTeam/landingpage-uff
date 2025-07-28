@@ -234,50 +234,36 @@
       "photo": "CircuitoImage"
     },
     {
-      "title": "Public History and Digital Technology: The Use of Numismatics in Historical Research",
+      "title": "História Pública e Tecnologia Digital: O Uso da Numismática na Pesquisa Histórica",
       "description": [
         {
-          "paragraph": "History changes lives and opens up new perspectives. For this reason, 'Public History', which is a branch of History that started in the US in the 1970s, is interested in the consumption of history by the general public and thrives on strong collaboration with the community. Digital History, and therefore Digital Classics, is at the heart of Public History."
+          "paragraph": "Reunindo a pesquisa sobre realezas e cunhagens às tecnologias digitais, este projeto visa o uso de Tecnologias 3D para análise numismática para o estudo de cunhagens antigas e almeja a criação de materiais didáticos para a educação básica no Brasil."
         },
         {
-          "paragraph": "As a research topic, ancient kingship provides excellent historical material to think with, particularly as represented in the visuality of royal coinages. Coins connect people, objects, and places, and were the first mass objects to carry images and to circulate on a large scale. They were used to disseminate and reinforce the stories of authorities and communities who had them struck or moulded."
+          "paragraph": "Pela análise de moedas através da lente de imagens em 3D, da técnica de Reflectance Transformation Imaging (RTI) e documentando esses artefatos usando padrões internacionais para codificação de materiais textuais (TEI/EPIDOC), este projeto traz novas questões dentro dos campos de numismática e de estudos de realezas e lideranças antigas."
         },
         {
-          "paragraph": "Coins also respond well to digital technologies, and especially 3D scanning and Reflectance Transformation Imaging (RTI), which allows them to be viewed, and so analysed and shared, in ways not previously possible. Indeed, the use of 3D technologies can change our perception of artefacts. In particular, my recent work on the application of RTI to so-called 'Celtic' coins has shown that enhanced images can produce different kinds of 'stories' within coin iconographies, and bring to light (and life) new ideologies and appropriations in daily lives."
+          "paragraph": "Ao mesmo tempo, ele contribui para o ensino de história em escolas públicas brasileiras, produzindo recursos para uso em sala de aula, assim fornecendo um caminho claro para o impacto social da pesquisa acadêmica."
         },
         {
-          "paragraph": "That sort of imagery has to be considered not in isolation but within the population’s visual culture, i.e. the iconosphere in which those images circulate. Grounded in Digital Classics, the aims of this project are three-fold. First, it will use 3D technologies to investigate the production and usage of ancient coinage in terms of their iconographies and ideologies, particularly with regard to their visual discourses in social life."
+          "paragraph": "Equipe: Adriene Baron Tacla e Lynette G. Mitchell"
         },
         {
-          "paragraph": "Secondly, it will consider how the use of these digital technologies in History classes can enhance the learning and teaching of History, especially in a Brazilian context. Finally, it will apply historical thinking and digital technologies to create teaching materials for ancient history for schools in both Portuguese and English."
+          "paragraph": "Período: 2018-2020"
         },
         {
-          "paragraph": "Using digital techniques to illuminate how kingship stories can be told through coins is an original and unique research project, which will show how visuality was used to create – and to transform – the stories about kings."
-        },
-        {
-          "paragraph": "The primary research questions for this project must then be: how and in what ways can digital technologies enhance and change the way that we view and understand ancient coinage, and especially royal coinage issues? Kings, and especially ancient kings, attracted ‘biographies’ to validate their position. Since ancient kingship was often personal and charismatic, coinage lent itself to the widespread dispersal of ideas."
-        },
-        {
-          "paragraph": "In this sense, coinage imagery was not ‘merely systematic propaganda’; rather it was integral to the performance and maintenance, as well as the politics, of kingship."
-        },
-        {
-          "paragraph": "Team: Adriene Baron Tacla and Lynette G. Mitchel"
-        },
-        {
-          "paragraph": "Period: 2018-2020"
-        },
-        {
-          "paragraph": "Funding: British Academy/NAF Grant"
+          "paragraph": "Financiamento: British Academy/NAF Grant"
         },
         {
           "paragraph": "Visite o site do projeto:"
         },
         {
-          "paragraph": "https://ofcoinsandkings.exeter.ac.uk/ "
+          "paragraph": "https://ofcoinsandkings.exeter.ac.uk/"
         }
       ],
       "photo": "DeMoedasEReias"
     }
+    
   ],
   "publications": [
     {
@@ -424,7 +410,7 @@
           "description": "Curso de extensão “God save the King: sources and methods for ancient biographies”, colaboração do NEREIDA/UFF com a Universidade de Exeter, ministrado pela Profa. Titular Dra. Lynette Mitchell, no IHT/UFF, Campus do Gragoatá, 03 a 06 de setembro de 2018, com um total de 12 horas de aula. Financiamento: British Academy/ NAF."
         },
         {
-          "photo": "Coins",
+          "photo": "AulasAbertas",
           "description": "Aulas Abertas em Humanidades Digitais, realizadas pelo NEREIDA no PPGH/UFF evento remoto, e que abarcou três aulas, a saber: 1) Profa. Dra. Camila Guimarães Dantas (Expat Archive Centre, Holanda), “Das coleções de ruínas digitais aos repositórios construídos em tempo real: uma visão panorâmica dos arquivos de fontes nascidas digitais”, em 25 de setembro de 2018; 2) Dra. Charlotte Tupman (Universidade de Exeter, Inglaterra),“Encoding ancient documents for digital publication. The EpiDoc initiative and how to get involved”, em 02 de outubro de 2018; 3) Profa. Dra. Sílvia Lima Gonçalves Araújo (Universidade do Minho, Portugal), “Da Coleção à anotação: ferramentas digitais para análise textual”, em 09 de outubro de 2018."
         }
       ]
@@ -483,7 +469,7 @@
       "year": "2022",
       "events": [
         {
-          "photo": "",
+          "photo": "IntruducaoAArqueologiaFuneraria",
           "description": "Introdução à Arqueologia Funerária, minicurso organizado pelo NEREIDA e com o apoio do TAPHOS (Grupo de Pesquisa em Práticas Mortuárias do Mediterrâneo Antigo) do MAE/USP-CNPq, ministrado pela Profa. Dra. Camila Diogo de Souza entre 14 de junho e 2 de agosto de 2022 (carga horária total 14 h)."
         }
       ]

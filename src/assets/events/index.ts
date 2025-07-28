@@ -10,9 +10,13 @@ import Andando from './2024/andando.png'
 import Desigualdade from './2024/desigualdade.png'
 import Hibrid from './2024/hibrid.png'
 import Alumbramientos from './2024/alumbramientos.png'
+import Coins from './2024/coins.png'
 
 // 2023
 import Circuitos from './2023/circuitos.png'
+
+// 2022
+import IntruducaoAArqueologiaFuneraria from './2022/IntruducaoAArqueologiaFuneraria.jpeg'
 
 // 2020
 import Doencas from './2020/doencas.png'
@@ -31,7 +35,7 @@ import OficinaTreinamentoEmEpidoc from './2019/oficina-treinamento-em-epidoc.png
 import Coloquio from './2018/coloquio.png'
 import OficinaRetireSuasAplicações from './2018/OficinaRetireSuasAplicações.jpeg'
 import Moedas from './2018/moedas.png'
-import Coins from './2018/coins.png'
+import AulasAbertas from './2018/aulas-abertas.jpeg'
 
 // 2017
 import Realidade from './2017/realidade.png'
@@ -85,6 +89,9 @@ export const PhotoEvents = {
     // 2023
     Circuitos,
 
+    // 2022
+    IntruducaoAArqueologiaFuneraria,
+
     
     // 2020
     Doencas,
@@ -101,6 +108,7 @@ export const PhotoEvents = {
     
     // 2018
     OficinaRetireSuasAplicações,
+    AulasAbertas,
     
     // 2017
     Realidade,
